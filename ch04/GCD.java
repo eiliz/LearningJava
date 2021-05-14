@@ -12,7 +12,6 @@ public class GCD {
                 b = b -a;
             }
         }
-
         System.out.println("GCD is " + a);
     }
 }
